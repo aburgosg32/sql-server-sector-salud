@@ -60,6 +60,14 @@ Las fechas del escenario corresponden a enero de 2026.
 - Microsoft SQL Server.
 - SQL Server Management Studio: SSMS.
 - Git y GitHub.
+  
+## Retos disponibles
+
+| Reto | Tema | Nivel |
+|---|---|---|
+| [01](retos/01-explorar-base-de-datos/README.md) | Explorar la base de datos | Inicial |
+| [02](retos/02-pacientes-por-distrito/README.md) | Buscar pacientes por distrito | Básico |
+| [03](retos/03-estados-citas-por-servicio/README.md) | Analizar estados de citas por servicio | Intermedio |
 
 ## Autor
 
