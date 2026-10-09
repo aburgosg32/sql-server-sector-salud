@@ -63,8 +63,8 @@ Las fechas del escenario corresponden a enero de 2026.
 
 ## Autor
 
-Abel del Carmen Burgos García  
-Ingeniero de Sistemas | Docente TI
+Abel Burgos García  
+Ingeniero de Sistemas | Docente TI 
 
 ## Aviso
 
