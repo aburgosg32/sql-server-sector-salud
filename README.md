@@ -65,9 +65,13 @@ Las fechas del escenario corresponden a enero de 2026.
 
 | Reto | Tema | Nivel |
 |---|---|---|
-| [01](retos/01-explorar-base-de-datos/README.md) | Explorar la base de datos | Inicial |
-| [02](retos/02-pacientes-por-distrito/README.md) | Buscar pacientes por distrito | Básico |
-| [03](retos/03-estados-citas-por-servicio/README.md) | Analizar estados de citas por servicio | Intermedio |
+| [01](retos/01-explorar-base-de-datos/README.md) | Explorar la base | Inicial |
+| [02](retos/02-pacientes-por-distrito/README.md) | Filtrar pacientes | Básico |
+| [03](retos/03-estados-citas-por-servicio/README.md) | Estados de citas por servicio | Intermedio |
+| [04](retos/04-agenda-citas/README.md) | Construir una agenda de citas | Intermedio |
+| [05](retos/05-atenciones-por-servicio/README.md) | Contar atenciones por servicio | Intermedio |
+| [06](retos/06-pacientes-sin-atenciones/README.md) | Identificar pacientes sin atenciones | Intermedio |
+| [07](retos/07-pacientes-sobre-promedio/README.md) | Pacientes sobre el promedio y última atención | Avanzado |
 
 ## Autor
 
