@@ -71,7 +71,6 @@ Las fechas del escenario corresponden a enero de 2026.
 | [04](retos/04-agenda-citas/README.md) | Construir una agenda de citas | Intermedio |
 | [05](retos/05-atenciones-por-servicio/README.md) | Contar atenciones por servicio | Intermedio |
 | [06](retos/06-pacientes-sin-atenciones/README.md) | Identificar pacientes sin atenciones | Intermedio |
-| [07](retos/07-pacientes-sobre-promedio/README.md) | Pacientes sobre el promedio y última atención | Avanzado |
 
 ## Autor
 
